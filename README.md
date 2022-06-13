@@ -8,8 +8,8 @@
 - Name : Yeonseo Ha
 - Email : ynns1217@naver.com
 
-<img src="https://github-readme-stats.vercel.app/api?username=ynns1217&theme=synthwave&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynns1217&theme=synthwave&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ynns1217&theme=calm&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynns1217&theme=calm&layout=compact"/>
 
 ## Tech Stack
 <a href="https://github.com/ynns1217/StudyWPF.git" target="_blank"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/></a>
