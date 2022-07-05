@@ -30,9 +30,10 @@
     <img height="40" src="https://taiwebs.com/upload/icons/vnc-connect-enterprise220-220.png">
 </p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ynns1217)
+
 !(https://github.com/Jitae9605/MiniProject_ERPSystem)
-!(https://solved.ac/ynns1217/)
+!(https://github.com/Jitae9605/Cpp_Miniproject.git)
+
 <!--
 **ynns1217/ynns1217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
