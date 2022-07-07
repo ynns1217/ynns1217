@@ -31,8 +31,6 @@
 </p>
 
 
-!(https://github.com/Jitae9605/MiniProject_ERPSystem)
-!(https://github.com/Jitae9605/Cpp_Miniproject.git)
 
 <!--
 **ynns1217/ynns1217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
